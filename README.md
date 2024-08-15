@@ -26,7 +26,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![CodeBlocks](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=CodeBlocks)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![CodeBlocks](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=codeblocks)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 - 🔧 &nbsp;
