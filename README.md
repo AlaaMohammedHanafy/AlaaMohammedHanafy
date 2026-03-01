@@ -45,7 +45,6 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 
 ### 📊 Profile stats
 
-[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Alaa-Mohammed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
